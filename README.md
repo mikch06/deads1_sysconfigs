@@ -1,6 +1,6 @@
 # deads1_sysconfigs
 Systemconfigurations, parameters, playbook for data platform
 
-## configs
+## Configs
 - nginx
 - firewalld
